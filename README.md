@@ -145,11 +145,6 @@ technical challenges - Desired timeline
 
 -   **GitHub:**
     [@shashankkhochikar](https://github.com/shashankkhochikar)
--   **Portfolio:** (https://shashankportfolio-nu.vercel.app/)
+-   **Portfolio:** [Link](https://shashankportfolio-nu.vercel.app/)
 
 ------------------------------------------------------------------------
-
-::: {align="center"}
-**Client-focused thinking. Practical engineering. Reliable digital
-solutions.**
-:::
