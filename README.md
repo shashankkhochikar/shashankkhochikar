@@ -1,75 +1,78 @@
 ::: {align="center"}
 # Hi, I'm Shashank Khochikar 👋
 
-### Senior Mobile Application Developer \| Flutter & Android \| Tech Lead
+### Freelance Software Developer \| Flutter, Mobile Apps & Web Solutions
 
-I build reliable mobile and web experiences, from clean user interfaces
-to API integrations and scalable application architecture.
+**I help businesses turn ideas into reliable digital products.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-shashankkhochikar-181717?style=for-the-badge&logo=github)](https://github.com/shashankkhochikar)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/shashankkhochikar)
 :::
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 About Me
+## 👋 How I Can Help
 
--   📱 Focused on **Flutter, Dart, Android, and Kotlin**
--   🧭 Experienced in mobile application architecture, state management,
-    and API integration
--   🧩 Interested in **Server-Driven UI (SDUI)** and reusable,
-    configurable UI systems
--   🌐 Also work with web technologies including **React, Vue, and
-    Laravel**
--   🤝 Interested in collaborating on useful products and well-defined
-    software projects
+I work with businesses, founders, and teams to build and improve digital
+products --- from mobile applications to responsive websites and API
+integrations.
 
-## 🛠️ Tech Stack
+-   📱 **Mobile app development:** Flutter, Dart, Android, and Kotlin
+-   🌐 **Website development:** Responsive web experiences and business
+    websites
+-   🔗 **API integration:** REST APIs, authentication, and third-party
+    services
+-   🧩 **Scalable UI architecture:** Reusable components and
+    Server-Driven UI (SDUI)
+-   🛠️ **Existing app improvements:** Bug fixing, feature development,
+    debugging, and maintenance
+
+## 🛠️ Technologies
 
 **Mobile:** Flutter · Dart · Android · Kotlin · Riverpod · GoRouter\
-**Networking & Services:** REST APIs · Dio · Firebase\
+**Backend & integrations:** REST APIs · Dio · Firebase\
 **Web:** React · Vue.js · Laravel · JavaScript\
-**Practices:** Reusable components · API integration · Localization ·
-App release workflows · Debugging
+**Engineering:** Reusable components · Localization · App release
+workflows · Debugging
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
-> Pin your strongest public repositories on your GitHub profile and
-> replace the examples below with their actual names and links.
+Explore my public repositories for examples of my development approach
+and technical skills.
 
   -----------------------------------------------------------------------
-  Project                             What to showcase
+  Project type                        What to look for
   ----------------------------------- -----------------------------------
-  **Flutter Mobile App**              App architecture, state management,
-                                      API integration, error/loading
-                                      states
+  **Flutter mobile app**              App structure, state management,
+                                      API integration, and error handling
 
-  **Web Application**                 Responsive UI, reusable components,
-                                      API integration, deployment
+  **Business website**                Responsive layout, usability, and
+                                      clear presentation of services
 
-  **Server-Driven UI Demo**           JSON-driven screens, reusable
-                                      widgets, configuration examples
+  **Server-Driven UI demo**           JSON-driven layouts and reusable UI
+                                      components
   -----------------------------------------------------------------------
 
-## 📌 What You'll Find Here
+> Replace these examples with links to your strongest real repositories.
+> Only showcase work you are authorized to share.
 
--   Mobile application experiments and reusable components
--   Practical demos and proof-of-concept projects
--   Code samples focused on maintainability and real-world use cases
+## 🤝 Working With Me
 
-## 🤝 Let's Connect
+I value clear communication, maintainable code, practical solutions, and
+a focus on the client's goals.
 
-I'm open to discussing mobile app development, web development, and
-software project collaborations.
+For a project inquiry, please share: - The problem you want to solve -
+The platform and key features - Your expected timeline
+
+## 📬 Contact
 
 -   **GitHub:**
     [@shashankkhochikar](https://github.com/shashankkhochikar)
--   **Portfolio:** Add your portfolio URL here
--   **LinkedIn:** Add your LinkedIn profile URL here
--   **Email:** Add a professional contact email here if you want it
-    public
+-   **Portfolio:** \[Add your portfolio URL\]
+-   **LinkedIn:** \[Add your LinkedIn URL\]
+-   **Email:** \[Add your professional email\]
 
 ------------------------------------------------------------------------
 
 ::: {align="center"}
-*Building useful products, one commit at a time.*
+**Have a project in mind? Let's discuss how I can help.**
 :::
