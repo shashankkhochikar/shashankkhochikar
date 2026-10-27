@@ -1,31 +1,26 @@
-::: {align="center"}
 # Hi, I'm Shashank Khochikar 👋
 
-### Mobile Application Expert \| Flutter & Android \| Freelance Software Developer
+### Helping Businesses Turn Ideas into Products \| Mobile Application Expert \| Flutter & Android \| Freelance Software Developer
 
-**I help businesses turn product ideas into reliable mobile and web
-solutions.**
+**I help businesses turn product ideas into reliable solutions.**
 
-From understanding the business problem to designing, building,
+From understanding the problem to designing, building,
 integrating, testing, and releasing the product, I focus on practical
 solutions that are maintainable and ready for real users.
-:::
 
 ------------------------------------------------------------------------
 
 ## 🤝 Client-Focused. Solution-Driven.
 
-A successful project is more than code --- it should solve the right
+A successful project is more than code it should solve the right
 problem, work reliably, and create value for the people using it.
 
-I collaborate with clients and teams to: - Understand goals, users,
-requirements, and constraints before choosing an implementation. - Turn
-requirements into clear features, technical plans, and achievable
-milestones. - Build user-friendly applications with maintainable
-architecture. - Integrate APIs and third-party services into existing or
-new products. - Debug issues, improve existing applications, and support
-release workflows. - Communicate progress clearly and keep technical
-decisions aligned with project goals.
+I collaborate with clients and teams to Understand goals, users, requirements, and constraints before choosing an implementation. 
+Turn requirements into clear features, technical plans, and achievable milestones.
+Build user-friendly applications with maintainable architecture.
+Integrate APIs and third-party services into existing or new products.
+Debug issues, improve existing applications, and support release workflows. 
+Communicate progress clearly and keep technical decisions aligned with project goals.
 
 ## 📱 Mobile Development Expertise
 
@@ -71,8 +66,8 @@ feature delivery and application architecture.
 Alongside mobile development, I can contribute to web and full-product
 workflows using technologies such as:
 
--   **Web:** React, Vue.js, JavaScript, responsive UI development.
--   **Backend:** Laravel and API-based integrations.
+-   **Web:** React, JavaScript, responsive UI development.
+-   **Backend:** API-based integrations.
 -   **Services:** REST APIs, Firebase, authentication flows, and
     third-party services.
 
@@ -93,7 +88,7 @@ requirements and scope.
 
   Backend & Services                  Laravel, Firebase, third-party APIs
 
-  Web                                 React, Vue.js, JavaScript
+  Web                                 React, JavaScript
 
   Mobile UI Architecture              Server-Driven UI, JSON-driven UI,
                                       reusable widgets
@@ -162,8 +157,6 @@ technical challenges - Desired timeline
 -   **GitHub:**
     [@shashankkhochikar](https://github.com/shashankkhochikar)
 -   **Portfolio:** \[Add your portfolio URL\]
--   **LinkedIn:** \[Add your LinkedIn URL\]
--   **Email:** \[Add your professional email\]
 
 ------------------------------------------------------------------------
 
