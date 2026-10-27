@@ -145,7 +145,7 @@ technical challenges - Desired timeline
 
 -   **GitHub:**
     [@shashankkhochikar](https://github.com/shashankkhochikar)
--   **Portfolio:** \[Add your portfolio URL\]
+-   **Portfolio:** (https://shashankportfolio-nu.vercel.app/)
 
 ------------------------------------------------------------------------
 
