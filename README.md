@@ -15,12 +15,12 @@ solutions that are maintainable and ready for real users.
 A successful project is more than code it should solve the right
 problem, work reliably, and create value for the people using it.
 
-I collaborate with clients and teams to Understand goals, users, requirements, and constraints before choosing an implementation. 
-Turn requirements into clear features, technical plans, and achievable milestones.
-Build user-friendly applications with maintainable architecture.
-Integrate APIs and third-party services into existing or new products.
-Debug issues, improve existing applications, and support release workflows. 
-Communicate progress clearly and keep technical decisions aligned with project goals.
+-   I collaborate with clients and teams to Understand goals, users, requirements, and constraints before choosing an implementation. 
+-   Turn requirements into clear features, technical plans, and achievable milestones.
+-   Build user-friendly applications with maintainable architecture.
+-   Integrate APIs and third-party services into existing or new products.
+-   Debug issues, improve existing applications, and support release workflows. 
+-   Communicate progress clearly and keep technical decisions aligned with project goals.
 
 ## 📱 Mobile Development Expertise
 
@@ -77,24 +77,13 @@ requirements and scope.
 
 ## 🧰 Technology Stack
 
-  -----------------------------------------------------------------------
-  Area                                Technologies
-  ----------------------------------- -----------------------------------
-  Mobile                              Flutter, Dart, Android, Kotlin
+  1. **Mobile** --- Flutter, Dart, Android, Kotlin
+  2. **State & Navigation** --- Riverpod, GoRouter
+  3. **Networking** --- Dio, REST APIs
+  4. **Backend & Services** --- Laravel, Firebase, third-party APIs
+  5. **Web** --- React, JavaScript
+  6. **Mobile UI Architecture** --- Server-Driven UI, JSON-driven UI, reusable widgets
 
-  State & Navigation                  Riverpod, GoRouter
-
-  Networking                          Dio, REST APIs
-
-  Backend & Services                  Laravel, Firebase, third-party APIs
-
-  Web                                 React, JavaScript
-
-  Mobile UI Architecture              Server-Driven UI, JSON-driven UI,
-                                      reusable widgets
-
-  Delivery                            Gradle, AGP, flavors, localization,
-                                      app release workflows
   -----------------------------------------------------------------------
 
 ## 🚀 Project Experience
