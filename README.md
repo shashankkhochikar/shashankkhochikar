@@ -1,67 +1,161 @@
 ::: {align="center"}
 # Hi, I'm Shashank Khochikar 👋
 
-### Freelance Software Developer \| Flutter, Mobile Apps & Web Solutions
+### Mobile Application Expert \| Flutter & Android \| Freelance Software Developer
 
-**I help businesses turn ideas into reliable digital products.**
+**I help businesses turn product ideas into reliable mobile and web
+solutions.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/shashankkhochikar)
+From understanding the business problem to designing, building,
+integrating, testing, and releasing the product, I focus on practical
+solutions that are maintainable and ready for real users.
 :::
 
 ------------------------------------------------------------------------
 
-## 👋 How I Can Help
+## 🤝 Client-Focused. Solution-Driven.
 
-I work with businesses, founders, and teams to build and improve digital
-products --- from mobile applications to responsive websites and API
-integrations.
+A successful project is more than code --- it should solve the right
+problem, work reliably, and create value for the people using it.
 
--   📱 **Mobile app development:** Flutter, Dart, Android, and Kotlin
--   🌐 **Website development:** Responsive web experiences and business
-    websites
--   🔗 **API integration:** REST APIs, authentication, and third-party
-    services
--   🧩 **Scalable UI architecture:** Reusable components and
-    Server-Driven UI (SDUI)
--   🛠️ **Existing app improvements:** Bug fixing, feature development,
-    debugging, and maintenance
+I collaborate with clients and teams to: - Understand goals, users,
+requirements, and constraints before choosing an implementation. - Turn
+requirements into clear features, technical plans, and achievable
+milestones. - Build user-friendly applications with maintainable
+architecture. - Integrate APIs and third-party services into existing or
+new products. - Debug issues, improve existing applications, and support
+release workflows. - Communicate progress clearly and keep technical
+decisions aligned with project goals.
 
-## 🛠️ Technologies
+## 📱 Mobile Development Expertise
 
-**Mobile:** Flutter · Dart · Android · Kotlin · Riverpod · GoRouter\
-**Backend & integrations:** REST APIs · Dio · Firebase\
-**Web:** React · Vue.js · Laravel · JavaScript\
-**Engineering:** Reusable components · Localization · App release
-workflows · Debugging
+My core specialization is mobile application development, with hands-on
+experience building Flutter and Android applications and working across
+feature delivery and application architecture.
 
-## 🚀 Selected Work
+### Flutter & Dart
 
-Explore my public repositories for examples of my development approach
-and technical skills.
+-   Cross-platform mobile application development for Android and iOS.
+-   Reusable widgets, responsive layouts, and modular application
+    structure.
+-   State management with **Riverpod**.
+-   Navigation and routing with **GoRouter**.
+-   REST API integration and networking with **Dio**.
+-   Firebase integration, localization, and payment gateway integration
+    where required.
+-   Build configuration, environment/flavor setup, and app release
+    preparation.
+
+### Android Development
+
+-   Native Android development and debugging.
+-   Kotlin, Gradle, Android Gradle Plugin (AGP), and build
+    troubleshooting.
+-   Android-specific configuration, app identifiers, assets, and release
+    workflows.
+-   Investigating dependency, plugin, and compatibility issues.
+
+### Mobile Architecture & Advanced Integrations
+
+-   **Server-Driven UI (SDUI):** building configurable interfaces driven
+    by JSON and reusable UI components.
+-   API-driven application flows, error handling, loading states, and
+    maintainable integration layers.
+-   Third-party SDK integration and platform-specific configuration.
+-   App analytics events and application update flows where needed.
+-   Exploring video calling SDKs and other product integrations through
+    proof-of-concept work.
+
+## 🌐 Web & End-to-End Product Development
+
+Alongside mobile development, I can contribute to web and full-product
+workflows using technologies such as:
+
+-   **Web:** React, Vue.js, JavaScript, responsive UI development.
+-   **Backend:** Laravel and API-based integrations.
+-   **Services:** REST APIs, Firebase, authentication flows, and
+    third-party services.
+
+I can help connect mobile apps, web interfaces, and backend services
+into a coherent product. The exact stack is selected based on project
+requirements and scope.
+
+## 🧰 Technology Stack
 
   -----------------------------------------------------------------------
-  Project type                        What to look for
+  Area                                Technologies
   ----------------------------------- -----------------------------------
-  **Flutter mobile app**              App structure, state management,
-                                      API integration, and error handling
+  Mobile                              Flutter, Dart, Android, Kotlin
 
-  **Business website**                Responsive layout, usability, and
-                                      clear presentation of services
+  State & Navigation                  Riverpod, GoRouter
 
-  **Server-Driven UI demo**           JSON-driven layouts and reusable UI
-                                      components
+  Networking                          Dio, REST APIs
+
+  Backend & Services                  Laravel, Firebase, third-party APIs
+
+  Web                                 React, Vue.js, JavaScript
+
+  Mobile UI Architecture              Server-Driven UI, JSON-driven UI,
+                                      reusable widgets
+
+  Delivery                            Gradle, AGP, flavors, localization,
+                                      app release workflows
   -----------------------------------------------------------------------
 
-> Replace these examples with links to your strongest real repositories.
-> Only showcase work you are authorized to share.
+## 🚀 Project Experience
 
-## 🤝 Working With Me
+My project experience includes work across mobile products and business
+applications, such as:
 
-I value clear communication, maintainable code, practical solutions, and
-a focus on the client's goals.
+-   **Healthcare applications** --- including DoctorPoint and
+    health-related app experiences.
+-   **Hospitality and membership apps** --- including work associated
+    with Vidanta Inner Circle.
+-   **HRMS applications** --- employee workflows and business-facing
+    mobile features.
+-   **Insurance and business applications** --- feature development and
+    integrations.
+-   **Multi-flavor mobile apps** --- shared Flutter codebases with
+    brand- and environment-specific configuration.
+-   **In-app purchases** --- iOS subscription sandbox integration and
+    production-readiness workflows.
 
-For a project inquiry, please share: - The problem you want to solve -
-The platform and key features - Your expected timeline
+For client confidentiality, I share only project details and code that I
+am authorized to make public. Where source code cannot be shared, I can
+create separate demos to demonstrate relevant capabilities.
+
+## 🔍 What I Can Help You Build
+
+-   A new Flutter or Android application
+-   A mobile app connected to your existing backend or APIs
+-   A business website or web interface
+-   New features for an existing mobile application
+-   Bug fixing, build issue investigation, and app maintenance
+-   Server-Driven UI or reusable component systems
+-   Third-party SDK, analytics, payment, or service integrations
+-   App configuration, flavors, and release preparation
+
+## 🧭 How I Approach Projects
+
+1.  **Understand** --- clarify the business goal, users, scope, and
+    constraints.
+2.  **Plan** --- break the work into features, milestones, and technical
+    tasks.
+3.  **Build** --- implement readable, reusable, maintainable solutions.
+4.  **Validate** --- test important flows and handle errors and edge
+    cases.
+5.  **Deliver** --- document relevant decisions and support agreed
+    release steps.
+
+## 🤝 Let's Work Together
+
+If you have a product idea, an existing app that needs improvement, or a
+technical challenge to solve, let's discuss the requirements and
+identify a practical path forward.
+
+To help me understand your project, share: - What you want to build or
+improve - Target platforms (Android, iOS, web) - Key features or current
+technical challenges - Desired timeline
 
 ## 📬 Contact
 
@@ -74,5 +168,6 @@ The platform and key features - Your expected timeline
 ------------------------------------------------------------------------
 
 ::: {align="center"}
-**Have a project in mind? Let's discuss how I can help.**
+**Client-focused thinking. Practical engineering. Reliable digital
+solutions.**
 :::
